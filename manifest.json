@@ -5,12 +5,8 @@
 	"description": "Injecting CSS stuff",
 	"content_scripts": [
 		{
-		  "matches": ["http://www.youtube.com/", "https://www.youtube.com/"],
-		  "css" : ["yt-home.css"]
-		},
-		{
-		  "matches": ["http://www.youtube.com/watch*", "https://www.youtube.com/watch*"],
-		  "css" : ["yt-watch.css"]
+		  "matches": ["http://www.youtube.com/*", "https://www.youtube.com/*"],
+		  "css" : ["yt.css"]
 		}
 	]
 }
