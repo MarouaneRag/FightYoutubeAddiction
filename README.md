@@ -8,7 +8,7 @@ By injecting CSS this very simple extension is able to block recommendations fro
 ![Youtube without evil](http://image.noelshack.com/fichiers/2018/19/6/1526093905-freedom.jpg)
 
 
-To use, simply go to:  [chrome://extensions](chrome://extensions)
+To use, simply open a new tab and go to:  `chrome://extensions`
 
-Click import extension and select the folder.
-Make sure to also enable this in incognito mode.
+Enable developer mode, and click import extension then select the folder.
+Make sure to also enable this in incognito mode and you're done.
