@@ -1,0 +1,16 @@
+{
+	"name": "Youtube Addiction is Bad",
+	"version": "0.0.1",
+	"manifest_version": 2,
+	"description": "Injecting stuff",
+	"content_scripts": [
+		{
+		  "matches": ["http://www.youtube.com/", "https://www.youtube.com/"],
+		  "css" : ["yt-home.css"]
+		},
+		{
+		  "matches": ["http://www.youtube.com/watch*", "https://www.youtube.com/watch*"],
+		  "css" : ["yt-watch.css"]
+		}
+	]
+}
