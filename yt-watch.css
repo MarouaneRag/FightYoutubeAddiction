@@ -1,3 +1,6 @@
 div#related{ display: none !important; }
 ytd-comments#comments{width: auto !important;}
 a.ytp-videowall-still.ytp-suggestion-set { visibility: hidden !important; }
+
+/* For some reason youtube (2018) keeps `./watch` url when transition from video to home by click */
+div#contents { visibility: hidden !important; }
