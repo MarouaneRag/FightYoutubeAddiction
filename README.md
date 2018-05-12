@@ -6,3 +6,6 @@ This very simple extension disables the evil video recommendations from the home
 
 ![Youtube without evil](http://image.noelshack.com/fichiers/2018/19/6/1526093905-freedom.jpg)
 
+To use, go to:  chrome://extensions
+Click import extension and select the folder.
+Make sure to also enable in incognito mode in the setting.
