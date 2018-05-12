@@ -1,6 +1,6 @@
 {
-	"name": "Youtube is Bad",
-	"version": "0.0.2",
+	"name": "Youtube domestication",
+	"version": "0.0.3",
 	"manifest_version": 2,
 	"description": "Injecting CSS stuff",
 	"content_scripts": [
