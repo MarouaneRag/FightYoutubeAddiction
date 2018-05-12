@@ -10,5 +10,6 @@ By injecting CSS this very simple extension is able to block recommendations fro
 
 To use, simply open a new tab and go to:  `chrome://extensions`
 
-Enable developer mode, and click import extension then select the folder.
-Make sure to also enable this in incognito mode and you're done.
+Enable developer mode, click import extension then select the folder.
+
+Make sure to also enable for incognito and you're done. Enjoy your new productive life.
