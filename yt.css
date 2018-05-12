@@ -2,9 +2,6 @@
 	Last update: 12/05/2018
 */
 
-/* Beautify it a bit */
-ytd-comments#comments{width: auto !important;}
-
 /* Hide everything */
 a.ytp-videowall-still.ytp-suggestion-set { visibility: hidden !important; }
 div#related{ display: none !important; } /*    <--- PURE EVIL RIGHT HERE */
@@ -20,3 +17,6 @@ iframe#ad-iframe{ visibility: hidden !important; }
 /* Hide scroll at the end of video players */
 button.ytp-button.ytp-endscreen-previous,
 button.ytp-button.ytp-endscreen-next{display: none;}
+
+/* Beautify things a bit */
+ytd-comments#comments{width: auto !important;}
