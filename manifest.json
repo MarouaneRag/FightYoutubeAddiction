@@ -1,8 +1,8 @@
 {
-	"name": "Youtube Addiction is Bad",
-	"version": "0.0.1",
+	"name": "Youtube is Bad", /* Technically it's the recommandations */
+	"version": "0.0.2",
 	"manifest_version": 2,
-	"description": "Injecting stuff",
+	"description": "Injecting CSS stuff",
 	"content_scripts": [
 		{
 		  "matches": ["http://www.youtube.com/", "https://www.youtube.com/"],
