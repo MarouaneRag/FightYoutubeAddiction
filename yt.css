@@ -1,0 +1,22 @@
+/*
+	Last update: 12/05/2018
+*/
+
+/* Beautify it a bit */
+ytd-comments#comments{width: auto !important;}
+
+/* Hide everything */
+a.ytp-videowall-still.ytp-suggestion-set { visibility: hidden !important; }
+div#related{ display: none !important; } /*    <--- PURE EVIL RIGHT HERE */
+div#contents { visibility: hidden !important; }
+
+/* But show videos in channels + search results */
+ytd-browse.style-scope.ytd-page-manager[page-subtype="channels"] div#contents ,
+div#container.ytd-search div#contents { visibility: visible !important; }
+
+/* Hide ads (can also be distracting) */
+iframe#ad-iframe{ visibility: hidden !important; }
+
+/* Hide scroll at the end of video players */
+button.ytp-button.ytp-endscreen-previous,
+button.ytp-button.ytp-endscreen-next{display: none;}
