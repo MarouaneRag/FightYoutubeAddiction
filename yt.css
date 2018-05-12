@@ -18,5 +18,8 @@ iframe#ad-iframe{ visibility: hidden !important; }
 button.ytp-button.ytp-endscreen-previous,
 button.ytp-button.ytp-endscreen-next{display: none;}
 
+/* Notifications, also bad */
+ytd-notification-topbar-button-renderer.notification-button-style-type-default { visibility: hidden !important; }
+
 /* Beautify things a bit */
 ytd-comments#comments{width: auto !important;}
