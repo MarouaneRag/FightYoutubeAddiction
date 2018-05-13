@@ -13,11 +13,11 @@ By injecting CSS this very simple extension is able to block recommendations fro
 
 To install, simply open a new tab.
 
-- Download the files (Download -> ZIP button)
 - Go to  `chrome://extensions`
 - Enable developer mode
-- Click import extension
-- Select the files
+- Download the files here (Download -> ZIP button)
+- Click import extension and import them
+- Check "Enable extension in incognito" from settings (optional)
 
 
 And enjoy your new **productive** life !
