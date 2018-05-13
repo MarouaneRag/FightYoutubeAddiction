@@ -1,4 +1,5 @@
 # Fight Youtube Addiction
+![Icon](https://raw.githubusercontent.com/MarouaneRag/FightYoutubeAddiction/master/icons/128.png)
 
 If you use Chrome and watch Youtube to learn programming, then I don't care how disciplined you are, **YOU NEED THIS** ! Trust me, you can't fight Youtube's evil algorithmes. They keep getting better and better, and they'll eat your life away !
 
