@@ -26,7 +26,7 @@ a.ytp-next-button.ytp-button { visibility: hidden !important; }
 
 /* Beautify things a bit */
 ytd-comments#comments{width: auto !important;}
-#main.ytd-watch, #top.ytd-watch { width: auto; }
+#main.ytd-watch, #top.ytd-watch { width: auto !important; }
 
 /* Remove comments section (just as bad of a distraction) */
 ytd-comments#comments { display: none !important; }
