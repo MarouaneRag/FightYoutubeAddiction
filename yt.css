@@ -21,5 +21,8 @@ button.ytp-button.ytp-endscreen-next{display: none;}
 /* Notifications, also bad */
 ytd-notification-topbar-button-renderer.notification-button-style-type-default { visibility: hidden !important; }
 
+/* The "Next" Button in the video player, is also an evil distraction */
+a.ytp-next-button.ytp-button { visibility: hidden !important; }
+
 /* Beautify things a bit */
 ytd-comments#comments{width: auto !important;}
