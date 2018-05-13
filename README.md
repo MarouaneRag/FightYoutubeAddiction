@@ -16,7 +16,7 @@ To install, simply open a new tab:
 - Go to  `chrome://extensions`
 - Enable developer mode
 - Click import extension and use the files [here](https://github.com/MarouaneRag/FightYoutubeAddiction/archive/master.zip)
-- Allow extension in incognito from settings (optional)
+- Allow incognito from settings (optional)
 
 
 And enjoy your new **productive** life !
