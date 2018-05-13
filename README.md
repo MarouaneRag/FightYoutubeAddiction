@@ -1,4 +1,4 @@
-![Icon](https://raw.githubusercontent.com/MarouaneRag/FightYoutubeAddiction/master/icons/128.png)
+<img align="left" src="https://raw.githubusercontent.com/MarouaneRag/FightYoutubeAddiction/master/icons/128.png">
 # Fight your Youtube Addiction
 
 
