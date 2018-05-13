@@ -19,7 +19,7 @@ To install, simply open a new tab:
 - Allow incognito from settings (optional)
 
 
-And enjoy your new **productive** life !
+Now enjoy your new **productive** life !
 
 You now have a competitive advantage. It's like you have mastered infinit discipline so much that nothing can distract you.
 
