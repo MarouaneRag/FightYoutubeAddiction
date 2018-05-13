@@ -1,6 +1,6 @@
 {
 	"name": "Youtube domestication",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"manifest_version": 2,
 	"description": "Injecting CSS stuff",
 	"content_scripts": [
@@ -8,5 +8,10 @@
 		  "matches": ["http://www.youtube.com/*", "https://www.youtube.com/*"],
 		  "css" : ["yt.css"]
 		}
-	]
+	],
+	"icons": {
+		"16": "icons/16.png",
+		"48": "icons/48.png",
+		"128": "icons/128.png"
+	}
 }
