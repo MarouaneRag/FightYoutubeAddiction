@@ -11,10 +11,13 @@ By injecting CSS this very simple extension is able to block recommendations fro
 
 <img align="right" src="http://image.noelshack.com/fichiers/2018/19/6/1526093905-freedom.jpg">
 
-To use, simply open a new tab.
+To install, simply open a new tab.
 
-- Then go to :  `chrome://extensions`
+- Download the files (Download -> ZIP button)
+- Go to :  `chrome://extensions`
 - Enable developer mode
 - Click import extension
 - Select the files
-- Enjoy a totally new **productive** life !
+
+
+And enjoy your new **productive** life !
