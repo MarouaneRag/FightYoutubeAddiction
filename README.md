@@ -9,8 +9,7 @@ By injecting CSS this very simple extension is able to block recommendations fro
 
 ## 🔌 Usage:
 
-![Youtube without evil](http://image.noelshack.com/fichiers/2018/19/6/1526093905-freedom.jpg)
-
+<img align="right" src="http://image.noelshack.com/fichiers/2018/19/6/1526093905-freedom.jpg">
 
 To use, simply open a new tab and go to:  `chrome://extensions`
 
