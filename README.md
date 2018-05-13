@@ -5,7 +5,7 @@
 
 If you use Chrome and watch Youtube for work or tutorials then I don't care how disciplined you are, **YOU NEED THIS** ! Trust me, you can't fight Youtube's evil algorithmes. They keep getting better and better, and they'll eat your life away ! It's no joke.
 
-By injecting CSS this simple script can block recommendations from the home page, the right side bar, and the video player at the end. Making it easy to quit your addiction. This is much better than blocking the site from DNS or hosts files because we know you'll come back. Blocking the entire website is **you doing it the wrong way**! To me it was never harmful to watch one or two interesting videos of important subjects, the recommendations are what gets me hooked and waste my days.
+By injecting CSS this simple script can block recommendations from the home page, the right side bar, and the video player at the end. Making it easy to quit your addiction. This is much better than blocking the site from DNS or hosts files because we know you'll come back. Blocking the entire website is **you doing it the wrong way**! To me it was never harmful to watch one or two videos related to work, it's the recommendations that always get me hooked in a spiral that waste my days.
 
 ## 🔌 Usage:
 
