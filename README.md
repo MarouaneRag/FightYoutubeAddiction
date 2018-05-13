@@ -5,7 +5,7 @@
 
 If you use Chrome and watch Youtube to learn programming, then I don't care how disciplined you are, **YOU NEED THIS** ! Trust me, you can't fight Youtube's evil algorithmes. They keep getting better and better, and they'll eat your life away ! It's no joke.
 
-By injecting CSS this simple extension is able to block recommendations from the home page, the right side bar, and the video player at the end. Making it easy to quit your addiction. This is much better than blocking the site from DNS or hosts files because sooner or later we know you'll come back. (common it's Youtube!)
+By injecting CSS this simple extension is able to block recommendations from the home page, the right side bar, and the video player at the end. Making it easy to quit your addiction. This is much better than blocking the site from DNS or hosts files because sooner or later we know you'll come back. (Come on it's Youtube!)
 
 ## 🔌 Usage:
 
