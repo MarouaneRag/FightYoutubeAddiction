@@ -21,6 +21,6 @@ To install, simply open a new tab:
 
 And enjoy your new **productive** life !
 
-You now have a competitive advantage. It's like you have mastered infinit discipline so much that nothing can ever distract you.
+You now have a competitive advantage. It's like you have mastered infinit discipline so much that nothing can distract you.
 
 With a bit of CSS and element inspecting, you can also use this for facebook or any other source of distraction that you can't entirely block.
